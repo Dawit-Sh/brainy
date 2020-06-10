@@ -12,7 +12,7 @@ print("|  _ \| '__/ _` | | '_ \| | | |")
 print("| |_) | | | (_| | | | | | |_| |")
 print("|____/|_|  \__,_|_|_| |_|\__, |")
 print("                         |___/ ")
-print("by NIght KIng ")
+print("[~ Made by <3 by NIght KIng ~] ")
 
 
 
